@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tvDescription">Мое первое приложение</string>
+    <string name="btn_text">Нажми сюда</string>
+    <string name="auth">Авторизация</string>
+
+</resources>

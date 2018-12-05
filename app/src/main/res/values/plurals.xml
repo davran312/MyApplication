@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="plurals_1">
+        <item quantity="one"> значение</item>
+        <item quantity="other">значений</item>
+    </plurals>
+</resources>
